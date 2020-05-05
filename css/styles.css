@@ -1,0 +1,70 @@
+/* * { */
+
+    /* background: white; */
+    
+    /* background-repeat: no-repeat; */
+    
+    /* background-size: cover ; */
+    
+    /* } */
+
+    body {
+        background: url(
+            https://sterlingboardingpass.com/AlternativeOnlineAccount/img/retros/sterling_retro_bg_4Copy.jpg);
+        background-repeat: no-repeat ;
+        background-size: cover ;
+    }
+    
+    nav {
+    
+    background-color: red ;
+    }
+    
+    img {
+    
+    padding: 2%;
+    
+    }
+    
+    .in{
+    
+    /* border-top: 1px solid; */
+    
+    border-bottom: 1px solid;
+    
+    padding: 8px;
+    
+    /* line-height: 1; */
+    
+    }
+
+    .row{
+        border-bottom: 1px solid;
+        padding: 8px;
+    }
+    
+    .landingpage{
+        background-color: rgb(250, 246, 246);
+    
+    margin-left: 20%;
+    
+    margin-right: 20%;
+    border: 1px solid pink;
+    }
+    .form-control {
+        text-align: center;
+    }
+    h6 {
+        text-align: center;
+    }
+    label{
+        margin-bottom: 0rem;
+        display: block;
+    }
+    .lastpage {
+        background-color: rgb(145, 172, 103);
+        border-radius;: 2px rgb(188, 209, 188);
+    }
+    #lastbutton {
+        margin: auto 46%;
+    }
