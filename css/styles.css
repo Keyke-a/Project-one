@@ -31,10 +31,8 @@ nav {
 #cover{
     background-repeat: no-repeat;
     background-size: cover;
-    /* width: 150%; */
     height: 100vh;
-    /* background-attachment: fixed; */
-    position: fixed;
+    position: absolute;
     display: block
     
 }
@@ -59,12 +57,10 @@ img {
 }
 .images {
     width: 150px;
-    /* float: right; */
 }
 .collage
         {
             width: 60%;
-            /* margin: auto 25%; */
     
         }
 
@@ -78,6 +74,9 @@ img {
 #text {
     font-family: sans-serif;
 
+}
+#exampleFormControlTextarea1 {
+    margin: 10px;
 }
 .btn-primary {
     margin-top: 10%;
@@ -116,10 +115,6 @@ img {
     margin: auto;
     background-image: url();
 }
-border-radius: 100px;
-    border: 4px solid white;
-    margin: 30px 10px;
-    border-style: solid;
 .form-control {
     text-align: center;
 }
